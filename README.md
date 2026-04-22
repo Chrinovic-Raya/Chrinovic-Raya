@@ -1,21 +1,21 @@
 # Hi, I'm Chrinovic 👋
 
-> **Professional portfolio** · Projects live here. All learning & coursework → [`@2Kronos`](https://github.com/2Kronos)
+ **Professional portfolio** · Projects live here. All learning & coursework →  [`@2Kronos`](https://github.com/2Kronos)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chrinovic%20Raya%20Tshiwaya-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/chrinovic-raya-tshiwaya-19943b325/)
 [![Learning Profile](https://img.shields.io/badge/GitHub-Learning%20Profile%20%402Kronos-181717?style=flat&logo=github)](https://github.com/2Kronos)
 
 ---
 
-## 🗂️ About This Profile
+## About This Profile
 
-This is my **professional** GitHub — where I publish polished projects and real-world work.
+This is my **professional** GitHub where I publish polished projects and real-world work.
 
 For the full breadth of my learning journey (coursework, experiments, degree notes, language practice), visit my dedicated learning profile: **[github.com/2Kronos](https://github.com/2Kronos)**
 
 ---
 
-## 🛠️ Skills & Knowledge Map
+## Skills & Knowledge Map
 
 Click any skill to jump straight to the relevant repository on my learning profile.
 
