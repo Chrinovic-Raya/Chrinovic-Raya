@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chrinovic%20Raya%20Tshiwaya-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/chrinovic-raya-tshiwaya-19943b325/)
 [![Learning Profile](https://img.shields.io/badge/GitHub-Learning%20Profile%20%402Kronos-181717?style=flat&logo=github)](https://github.com/2Kronos)
-
+[![Portfolio](https://img.shields.io/badge/Website-My%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://chrinovic-raya.vercel.app/)
 ---
 
 ## About This Profile
@@ -40,7 +40,7 @@ Click any skill to jump straight to the relevant repository on my learning profi
 | React — Building an Interface | [`React-Building-an-Interface`](https://github.com/2Kronos/React-Building-an-Interface) |
 | jQuery | [`jQuery-Essential-Training`](https://github.com/2Kronos/jQuery-Essential-Training) |
 | JavaScript — Modern Browser APIs | [`JavaScript-Modern-Browser-APIs`](https://github.com/2Kronos/JavaScript-Modern-Browser-APIs) |
-| WebGL | [`WebGL`](https://github.com/2Kronos/WebGL) |
+| WebGL | [`WebGL`](https://github.com/2Kronos/Webgl-FIINAL-EXAM) |
 | Web Programming Foundations | [`Web-Programming-Foundations`](https://github.com/2Kronos/Web-Programming-Foundations) |
 | Web Design & Development Intro | [`Introduction-to-Web-Design-and-Development`](https://github.com/2Kronos/Introduction-to-Web-Design-and-Development) |
 | Accessibility Best Practices | [`Simplifying-Web-Development-with-Accessibility`](https://github.com/2Kronos/Simplifying-Web-Development-with-Accessibility) |
@@ -52,9 +52,10 @@ Click any skill to jump straight to the relevant repository on my learning profi
 
 | Skill | Repository |
 |---|---|
-| Python Object-Oriented Programming | [`Python-Object-Oriented-Programming`](https://github.com/2Kronos/Python-Object-Oriented-Programming) |
-| Python 3 Standard Library | [`Learning-the-Python-3-Standard-Library`](https://github.com/2Kronos/Learning-the-Python-3-Standard-Library) |
-| Programming Foundations: Data Structures | [`Programming-Foundations-Data-Structures`](https://github.com/2Kronos/Programming-Foundations-Data-Structures) |
+| Python Essential training | [`Python Essential training`](https://github.com/2Kronos/Python-learning-journey/tree/master/Course%20notes/Obsidian%20notes/1.%20Essential%20Training) |
+| Python structures | [`Data Structures`](https://github.com/2Kronos/Python-learning-journey/tree/master/Course%20notes/Obsidian%20notes/4.%20Data%20Structures) |
+| Python Object-Oriented Programming | [`Python-Object-Oriented-Programming`](https://github.com/2Kronos/Python-learning-journey/tree/master/Course%20notes/Obsidian%20notes/2.%20Python%20Object-Oriented%20Programming) |
+| Python 3 Standard Library | [`Learning-the-Python-3-Standard-Library`](https://github.com/2Kronos/Python-learning-journey/tree/master/Course%20notes/Obsidian%20notes/3.%20Python%203%20Standard%20Library) |
 | Level Up: Python | [`Level-Up-Python`](https://github.com/2Kronos/Level-Up-Python) |
 | 8 Things You Must Know in Python | [`8-Things-You-Must-Know-in-Python`](https://github.com/2Kronos/8-Things-You-Must-Know-in-Python) |
 | Python Practice: Real-World Coding Challenges | [`Python-Practice-Real-World-Coding-Challenges`](https://github.com/2Kronos/Python-Practice-Real-World-Coding-Challenges) |
@@ -77,9 +78,9 @@ Click any skill to jump straight to the relevant repository on my learning profi
 
 | Language | Repository |
 |---|---|
-| Java | [`Java`](https://github.com/2Kronos/Java) |
+| Java | [`Java`](https://github.com/2Kronos/Java-Learning-Journey) |
 | C | [`C`](https://github.com/2Kronos/C) |
-| Python | [`Python`](https://github.com/2Kronos/Python) |
+| Python | [`Python`](https://github.com/2Kronos/Python-learning-journey) |
 
 ---
 
@@ -89,12 +90,10 @@ Click any skill to jump straight to the relevant repository on my learning profi
 |---|---|
 | [`Student-Performance-Analytics-System`](https://github.com/Chrinovic-Raya/Student-Performance-Analytics-System-project) | Analytics system for tracking and visualising student performance data |
 | [`Washing-Machine-Model`](https://github.com/Chrinovic-Raya/Washing-machine-model) | State-based model of a washing machine system |
+| [`Gesture controlled robotic arm`](https://github.com/2Kronos/Gesture-Controlled-Robotic-Arm) | Industrial robotic arm model that uses hand gesture for coordination |
 
 > More projects coming — watch this space ⭐
 
 ---
 
-## 📬 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrinovic-raya-tshiwaya-19943b325/)
-- 🧠 [Learning Profile — @2Kronos](https://github.com/2Kronos)
